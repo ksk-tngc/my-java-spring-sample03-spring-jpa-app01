@@ -6,7 +6,7 @@
 * CommandLineRunner を実装したコンポーネントを定義し、  
   Spring Boot 起動時に DB 初期データを登録するコマンドラインを実行
 * バリデーション実装
-* WebJars で BootStrap 導入
+* WebJars で Bootstrap 導入
 
 ## 画面
 
